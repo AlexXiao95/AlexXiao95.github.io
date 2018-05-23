@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please refer to [*my latest resume(pdf)*](http://academicpages.github.io/files/resume_Hao.pdf) [May. 2018] or my [*LinkedIn profile*](https://www.linkedin.com/in/hao-xiao-1b1257124/).
+Please refer to [*my latest resume(pdf)*](http://alexxiao95.github.io/files/resume_Hao.pdf) [May. 2018] or my [*LinkedIn profile*](https://www.linkedin.com/in/hao-xiao-1b1257124/).
 
 Education
 ======
