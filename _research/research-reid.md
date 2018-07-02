@@ -1,10 +1,10 @@
 ---
 title: "Group Re-Identification: Leveraging and Integrating Multi-Grain Information"
 collection: research
-type: "Workshop"
+type: "IVM Lab"
 permalink: /research/research-reid
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "Shanghai Jiao Tong University"
+date: 2016-01-01
 location: "City, Country"
 ---
 

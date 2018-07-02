@@ -54,7 +54,7 @@ Graduate Research Assistant, supervised by [*Prof. Jenq-Neng Hwang*](http://www.
 
 Undergraduate Research Assistant, supervised by [*Prof. Weiyao Lin*](http://wylin2.vosi.biz).
 
-* Collected two challenging [group re-identification datasets]() by tracking people in a crowd scene and implementing socially constraint structure learning to detect groups.* Developed a multi-grain **group re-identification** process which derives features for multi-grain objects and iteratively evaluates their importance to handle interferences from group dynamics.* Proposed a multi-order matching process by a personalized random walk scheme through a multi-order association graph, which integrated multi-grain information to obtain more reliable group matching results.
+* Collected two challenging group re-identification datasets by tracking people in a crowd scene and implementing socially constraint structure learning to detect groups.* Developed a multi-grain **group re-identification** process which derives features for multi-grain objects and iteratively evaluates their importance to handle interferences from group dynamics.* Proposed a multi-order matching process by a personalized random walk scheme through a multi-order association graph, which integrated multi-grain information to obtain more reliable group matching results.
 
 Project Leader of an Intelligent System
 
