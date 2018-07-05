@@ -2,7 +2,7 @@
 title: "Group Re-Identification: Leveraging and Integrating Multi-Grain Information"
 collection: publications
 permalink: /publication/acmmm2018
-excerpt: '[Download paper here](http://alexxiao95.github.io/files/paper_acmmm.pdf)'
+excerpt: '[Download review copy here](http://alexxiao95.github.io/files/paper_acmmm.pdf), Camera-ready version to appear.'
 date: 2018-7-01
 venue: 'ACM Multimedia'
 paperurl: ''
