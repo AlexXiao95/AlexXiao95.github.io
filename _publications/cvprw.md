@@ -2,7 +2,7 @@
 title: "Single-camera and inter-camera vehicle tracking and 3D speed estimation based on fusion of visual and semantic features"
 collection: publications
 permalink: /publication/cvpr2018
-excerpt: '[Paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf), [Code](https://github.com/AlexXiao95/Multi-Camera-Vehicle-Tracking-and-Reidentification),[2018 NVIDIA AI City Challenge](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf)'
+excerpt: '[[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf), [[Code]](https://github.com/AlexXiao95/Multi-Camera-Vehicle-Tracking-and-Reidentification), [[2018 NVIDIA AI City Challenge]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf)'
 date: 2018-5-01
 venue: 'CVPR Workshop on the NVIDIA AI City Challenge'
 paperurl: ''
