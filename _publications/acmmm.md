@@ -14,19 +14,19 @@ This paper addresses an important yet less-studied problem: re-identifying group
 
 # Framework
 
-<div align=center> <img src="acmmm/framework.png" width = "500"> </div>
+<div align=center> <img src="https://alexxiao95.github.io/publications/acmmm/framework.png" width = "500"> </div>
 
 
 This figure illustrates the overview of our proposed approach. Given the probe group image captured from one camera, our goal is to find the matched group images from a set of gallery group images captured from another camera. We represent each group image by a set of multi-grain objects, and extract the features for the multi-grain objects. The matching process is an iterative process. We compute the static and dynamic importance weights of multi-grain objects for the probe and gallery images according to the intermediate matching results. Then, we use a multi-order matching algorithm to compute intermediate matching results, which are used to update the dynamic importance weights. We perform the two stages iteratively, and obtain the final matching results.
 
 # Multi-grain Representation and Importance Weighting
-<div align=center> <img src="acmmm/figure1.png" width = "500"> </div>
+<div align=center> <img src="https://alexxiao95.github.io/publications/acmmm/figure1.png" width = "500"> </div>
 
 Figure 1: (a) Illustration of matched-people sets and their distributions in the feature space (The color solid arrows indicate the one-to-one mapping results between individuals. People circled by the same color rectangles in camera B are matched to the same person in A, and belong to the same matched people set). (b) The derived importance weights for multi-grain objects (individuals, 2-people subgroup s, 3-people subgroups) in two group images. Note: the importance weights for some 2-people/3-people subgroups are not displayed in order for a cleaner illustration. (Best viewed in color)
 
 # Multi-order Matching
 
-<div align=center> <img src="acmmm/matching.png" width = "500"> </div>
+<div align=center> <img src="https://alexxiao95.github.io/publications/acmmm/matching.png" width = "500"> </div>
 
 Figure 2: Illustration of multi-order association graph. Left: A cross-view group pair being matched; Right: The multi-order association graph constructed for the group pair.
 
@@ -35,8 +35,8 @@ Figure 2: Illustration of multi-order association graph. Left: A cross-view grou
 We perform experiments on three datasets: (1) the public i-LID MCTS dataset which contains 274 group images for 64 groups; (2) our own constructed DukeMTMC Group dataset which includes 177 group image pairs extracted from a 8-camera-view DukeMTMC dataset; (3) our own constructed Road Group dataset which includes 162 group pairs taken from a two-camera crowd road scene. When constructing our own datasets, we automatically detect groups, and randomly select groups with different sizes & variations as the target groups in our dataset. Moreover, we define two cross-view groups as the same group when they have more than 60% members in common.
 
 
-<div align=center> <img src="acmmm/res.png" width = "500"> </div>
+<div align=center> <img src="https://alexxiao95.github.io/publications/acmmm/res.png" width = "500"> </div>
 
 Figure 3: CMC results of Group Re-ID on different datasets. We compares our approach with the state-of-the-art group re-identification methods on different datasets: CRRRO-BRO, Covariance, PREF, BSC+CM. To further demonstrate the effectiveness of our approach, we also include the results of two state-of-the-art methods designed for single person Re-ID, which utilize patch saliency or a KMFA(Rχ2) distance metric to calculate image-wise similarity (Saliency and Mirror+KMFA). From this table, we can observe that our approach has better results than the existing group Re-ID methods. This demonstrates the effectiveness of our approach.
 
-<div align=center> <img src="acmmm/table.png" width = "500"> </div>
+<div align=center> <img src="https://alexxiao95.github.io/publications/acmmm/table.png" width = "500"> </div>
