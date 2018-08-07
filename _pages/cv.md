@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please refer to [*my latest resume(pdf)*](http://alexxiao95.github.io/files/resume_Hao.pdf) [May. 2018] or my [*LinkedIn profile*](https://www.linkedin.com/in/hao-xiao-1b1257124/).
+Please refer to [*my latest resume(pdf)*](http://alexxiao95.github.io/files/resume_Hao.pdf) [Aug. 2018] or my [*LinkedIn profile*](https://www.linkedin.com/in/hao-alex-xiao-1b1257124/).
 
 Education
 ======
@@ -64,7 +64,7 @@ Project Leader of an Intelligent System
 
 Project Team Leader, supervised by [*Prof. Xinbing Wang*](http://www.cs.sjtu.edu.cn/~wang-xb/).
 
-* Conducted the construction and maintenance of an academic search system: [*Acemap*](http://www.papersbook.org).* Analyzed a large scale academic dataset, [*Microsoft Academic Graph*](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/) (MAG), which included data crawling, cleaning and processing.
+* Conducted the construction and maintenance of an academic search system: [*Acemap*](https://acemap.info).* Analyzed a large scale academic dataset, [*Microsoft Academic Graph*](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/) (MAG), which included data crawling, cleaning and processing.
 * Applied for a patent: Construction and Visualization of Heterogeneous Topic Web Based on Text Network, which can recognize the relationship between word topics and document topics.* Designed a novel “interactive map” approach to visualize large-scale and high-dimensional academic literatures and display the underlying relationship among them, which is available on the Acemap website.
 
 Publications
