@@ -10,4 +10,4 @@ location: "City, Country"
 
 
 [[Code]](),
-[[Poster]](https://alexxiao95.github.io/files/bts_poster.pdf.pdf)
+[[Poster]](https://alexxiao95.github.io/files/bts_poster.pdf)

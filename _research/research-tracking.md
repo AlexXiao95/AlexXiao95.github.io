@@ -9,4 +9,4 @@ location: "City, Country"
 ---
 
 [[Code]](https://github.com/AlexXiao95/YOLO_TRACKING),
-[[Poster]](https://alexxiao95.github.io/files/tracking_poster.pdf.pdf)
+[[Poster]](https://alexxiao95.github.io/files/tracking_poster.pdf)
