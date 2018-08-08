@@ -21,6 +21,6 @@ I am a quick learner, problem solver and team worker who has a strong passion fo
 
 *04/2018*, Our UW team win Track 1 & Track 3 at the NVIDIA AI City Challenge Workshop at CVPR 2018. [[Link]](http://www.ee.washington.edu/spotlight/hwangs-team-beats-out-the-competition-in-ai-challenges/)
 
-*09/2018*, I start my master study at University of Washington.
+*09/2017*, I start my master study at University of Washington.
 
-*06/2018*, I get my bachelor degree from Shanghai Jiao Tong University.
+*06/2017*, I get my bachelor degree from Shanghai Jiao Tong University.

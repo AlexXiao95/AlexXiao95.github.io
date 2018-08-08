@@ -9,7 +9,7 @@ excerpt: '[[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/pap
 date: 2018-5-01
 venue: 'CVPR Workshop on the NVIDIA AI City Challenge'
 paperurl: ''
-citation: 'Zheng Tang, Gaoang Wang, Hao Xiao, Aotian Zheng and Jenq-Neng Hwang, "Single-camera and inter-camera vehicle tracking and 3D speed estimation based on fusion of visual and semantic features," In CVPR Workshop (CVPRW) on the AI City Challenge, 2018'
+citation: 'Zheng Tang, Gaoang Wang, **Hao Xiao**, Aotian Zheng and Jenq-Neng Hwang, "Single-camera and inter-camera vehicle tracking and 3D speed estimation based on fusion of visual and semantic features," In CVPR Workshop (CVPRW) on the AI City Challenge, 2018'
 ---
 
 [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf), 
@@ -24,7 +24,7 @@ Tracking of vehicles across multiple cameras with non-overlapping views has been
 
 # Demo Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_i4numqiv7Y?start=1200" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<br /></br>
+<br />
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jlvh_KxHl40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

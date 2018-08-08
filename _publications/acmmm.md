@@ -6,7 +6,7 @@ excerpt: '[[paper]](http://alexxiao95.github.io/files/paper_acmmm.pdf), Camera-r
 date: 2018-7-01
 venue: 'ACM Multimedia'
 paperurl: ''
-citation: 'Hao Xiao, Weiyao Lin, Bin Sheng, Ke Lu, Junchi Yan, Jingdong Wang, Errui Ding, Yihao Zhang, and Hongkai Xiong. 2018. Group Re-Identification: Leveraging and Integrating Multi-Grain Infor- mation. In 2018 ACM Multimedia Conference'
+citation: 'Hao Xiao, Weiyao Lin, Bin Sheng, Ke Lu, Junchi Yan, Jingdong Wang, Errui Ding, Yihao Zhang, and Hongkai Xiong. 2018. Group Re-Identification: Leveraging and Integrating Multi-Grain Information. In 2018 ACM Multimedia Conference'
 ---
 
 [[paper]](http://alexxiao95.github.io/files/paper_acmmm.pdf), Camera-ready version to appear.

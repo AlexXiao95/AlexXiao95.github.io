@@ -48,11 +48,11 @@ Graduate Research Assistant, supervised by [*Prof. Jenq-Neng Hwang*](http://www.
 
 * Realized a fully unsupervised online learning framework to achieve **multi-camera tracking** of people
 * Designed multi-camera tracking of vehicle with a fusion of adaptive appearance, semantic features and comparison of license plates
-* Participated in [*NVIDIA AI City challenge 2018*](), which held as a workshop at [*CVPR 2018*](http://cvpr2018.thecvf.com), and achieved a superiority performance in both Track 1: Traffic Flow Analysis and Track 3: Multi-camera Vehicle Detection & Reidentification, among over 20 teams
+* Participated in [*NVIDIA AI City challenge 2018*](https://www.aicitychallenge.org), which held as a workshop at [*CVPR 2018*](http://cvpr2018.thecvf.com), and achieved a superiority performance in both Track 1: Traffic Flow Analysis and Track 3: Multi-camera Vehicle Detection & Reidentification, among over 20 teams
 
 ### **[Image, Video, and Multimedia Communication Lab](http://ivm.sjtu.edu.cn) (IVM), SJTU**
 
-Undergraduate Research Assistant, supervised by [*Prof. Weiyao Lin*](http://wylin2.vosi.biz).
+Undergraduate Research Assistant, supervised by [*Prof. Weiyao Lin*](https://weiyaolin.github.io).
 
 * Collected two challenging group re-identification datasets by tracking people in a crowd scene and implementing socially constraint structure learning to detect groups.* Developed a multi-grain **group re-identification** process which derives features for multi-grain objects and iteratively evaluates their importance to handle interferences from group dynamics.* Proposed a multi-order matching process by a personalized random walk scheme through a multi-order association graph, which integrated multi-grain information to obtain more reliable group matching results.
 
@@ -60,7 +60,7 @@ Project Leader of an Intelligent System
 
 * Achieved a real-time object detection system by training convolutional neural network and iteratively advancing model performance, which can classify normal people and fallen people.* Utilized graph matching algorithm based on confident tracklets to develop multiple object tracking algorithm.* Implemented a **real-time tracking system** on surveillance video stream by combining detection and tracking algorithm, which realized pedestrian counting as well as fall warning.
 
-### **[Research Center of Intelligent Internet of Things]((http://iiot.sjtu.edu.cn/)) (IIOT), SJTU**
+### **[Research Center of Intelligent Internet of Things](http://iiot.sjtu.edu.cn/) (IIOT), SJTU**
 
 Project Team Leader, supervised by [*Prof. Xinbing Wang*](http://www.cs.sjtu.edu.cn/~wang-xb/).
 
