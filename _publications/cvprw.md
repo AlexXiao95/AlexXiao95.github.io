@@ -3,6 +3,7 @@ title: "Single-camera and inter-camera vehicle tracking and 3D speed estimation 
 collection: publications
 permalink: /publication/cvpr2018
 excerpt: '[[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf), 
+[[Slides]](https://alexxiao95.github.io/publications/cvprw/cvpr_slides.pdf),
 [[Poster]](https://alexxiao95.github.io/publications/cvprw/cvpr_poster.pdf),
 [[Code]](https://github.com/AlexXiao95/2018AICity_TeamUW), 
 [[2018 NVIDIA AI City Challenge]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf)'
@@ -13,6 +14,7 @@ citation: 'Zheng Tang, Gaoang Wang, Hao Xiao, Aotian Zheng and Jenq-Neng Hwang, 
 ---
 
 [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf), 
+[[Slides]](https://alexxiao95.github.io/publications/cvprw/cvpr_slides.pdf),
 [[Poster]](https://alexxiao95.github.io/publications/cvprw/cvpr_poster.pdf),
 [[Code]](https://github.com/AlexXiao95/2018AICity_TeamUW), 
 [[2018 NVIDIA AI City Challenge]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf)
@@ -28,3 +30,14 @@ Tracking of vehicles across multiple cameras with non-overlapping views has been
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jlvh_KxHl40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+<br />
+# Reference
+Please cite this paper in your publications if it helps your research:
+
+    @inproceedings{tang2018vehicle,
+      author = {Zheng Tang and Gaoang Wang and Hao Xiao and Aotian Zheng and Jenq-Neng Hwang},
+      booktitle = {CVPR Workshop (CVPRW) on the AI City Challenge},
+      title = {Single-camera and Inter-camera Vehicle Tracking and 3D Speed Estimation Based on Fusion of Visual and Semantic Features},
+      year = {2018},
+      pages = {108--115}
+    }

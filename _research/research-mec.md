@@ -9,5 +9,5 @@ location: "City, Country"
 ---
 
 [[Code]](https://github.com/AlexXiao95/AlexaBots), 
-[[Poster]](https://hao-fang.github.io/ee596_spr2018/slides/showcase/MosEisleyCantina_poster.pdf),
-[[Slide]](https://hao-fang.github.io/ee596_spr2018/slides/showcase/MosEisleyCantina_slides.pdf)
+[[Slides]](https://hao-fang.github.io/ee596_spr2018/slides/showcase/MosEisleyCantina_slides.pdf),
+[[Poster]](https://hao-fang.github.io/ee596_spr2018/slides/showcase/MosEisleyCantina_poster.pdf)
