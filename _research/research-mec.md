@@ -12,7 +12,7 @@ location: "City, Country"
 [[Slides]](https://hao-fang.github.io/ee596_spr2018/slides/showcase/MosEisleyCantina_slides.pdf),
 [[Poster]](https://hao-fang.github.io/ee596_spr2018/slides/showcase/MosEisleyCantina_poster.pdf)
 
-# Introduction
+## Introduction
 
 The increased prevalence and sophistication of home-based virtual assistants such as Amazon’s Alexa has given rise to a wide variety of tailored applications employing these technologies. Virtual assistant applications can play music, manage calendars, set reminders and alarms, as well as search the web. However, some gaps in functionality are yet to be filled and user friendly recommendation systems are oftentimes lacking if not entirely absent. Thus, the motivation for this project is to fill this perceived gap by building an application that allows Alexa-users to search for restaurants that fit a variety of qualifications via their Alexa devices. Our aim is to develop a conversational restaurant recommendation system using data from the Yelp & Google Places APIs to assist people in searching for and choosing restaurants from their Alexa device.
 
@@ -20,9 +20,9 @@ Our target users are primarily people in urban areas with access to Alexa at hom
 
 This application will converse with the user in a social manner by engaging them in a conversation wherein it will use both the current dialog and its memory of previous ones to set a series of constraints which will narrow the search space and provide the best recommendation.
 
-# Finite State Dialog Manager
+## Finite State Dialog Manager
 <div style="text-align: center">
-<img src="https://alexxiao95.github.io/research/mec/dialogManager.png" width = "700">
+<img src="https://alexxiao95.github.io/research/mec/dialogManager.png" width = "600">
 </div>
 
 The dialog manager, deployed as an AWS Lambda function, governs the interaction between the user and the system by guiding the dialog and petitioning the various interface modules for the necessary information such that requests by the user are satisfied. This figure contains a schematic overview of the dialog management system. After an analysis of possible user behaviours, we have defined several basic states so that our chatbot can respond to the user in a useful manner.
@@ -40,7 +40,8 @@ The dialog manager, deployed as an AWS Lambda function, governs the interaction 
 4. **Offer Data state**: ​This state is called when the user wants Mos Eisley Cantina to provide more information about a specific restaurant. It provides restaurant information (phone number, address, opening hour, reviews and duration to get there, etc.) via the Yelp API and Google Maps API. It remains in this state, continuing to offer more data, as long as the user requests more information. If the user is satisfied with the recommendation and does not want more information, the dialog manager switches to End state. If the user wants another, different recommendation or to revisit a previous recommendation, it switches to the Offer Recommendation state.
 
 5. **End state**:​ This state ends the session, thanks the user, and saves both the user profile and data about the recommendations made.
-# Demo
+
+## Demo
 <div style="text-align: center">
 <img src="https://alexxiao95.github.io/research/mec/demo1.png" width = "300">
 </div>
