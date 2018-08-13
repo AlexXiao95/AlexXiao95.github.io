@@ -1,7 +1,7 @@
 ---
 title: "Single-camera and inter-camera vehicle tracking and 3D speed estimation based on fusion of visual and semantic features"
 collection: publications
-permalink: /publication/cvpr2018
+permalink: /publications/cvpr2018
 excerpt: '[[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf), 
 [[Slides]](https://alexxiao95.github.io/publications/cvprw/cvpr_slides.pdf),
 [[Poster]](https://alexxiao95.github.io/publications/cvprw/cvpr_poster.pdf),

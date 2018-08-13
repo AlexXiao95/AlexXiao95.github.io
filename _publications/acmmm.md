@@ -1,15 +1,15 @@
 ---
 title: "Group Re-Identification: Leveraging and Integrating Multi-Grain Information"
 collection: publications
-permalink: /publication/acmmm2018
-excerpt: '[[paper]](http://alexxiao95.github.io/files/paper_acmmm.pdf), Camera-ready version to appear.'
+permalink: /publications/acmmm2018
+excerpt: '[[paper]](http://alexxiao95.github.io/publications/acmmm/paper_acmmm.pdf), Camera-ready version to appear.'
 date: 2018-7-01
 venue: 'ACM Multimedia'
 paperurl: ''
 citation: 'Hao Xiao, Weiyao Lin, Bin Sheng, Ke Lu, Junchi Yan, Jingdong Wang, Errui Ding, Yihao Zhang, and Hongkai Xiong. 2018. Group Re-Identification: Leveraging and Integrating Multi-Grain Information. In 2018 ACM Multimedia Conference'
 ---
 
-[[paper]](http://alexxiao95.github.io/files/paper_acmmm.pdf), Camera-ready version to appear.
+[[paper]](http://alexxiao95.github.io/publications/acmmm/paper_acmmm.pdf), Camera-ready version to appear.
 
 ## Abstract
 This paper addresses an important yet less-studied problem: re-identifying groups of people in different camera views. Group re-identification (Re-ID) is very challenging since it is not only interfered by view-point and human pose variations in the traditional single-object Re-ID tasks, but also suffers from group layout and group member variations. To handle these issues, we propose to leverage the information of multi-grain objects: individual person and subgroups of two and three people inside a group image. We compute multi-grain representations to characterize the appearance and spatial features of multi-grain objects and evaluate the importance weight of each object for group Re-ID, so as to handle the interferences from group dynamics. We compute the optimal group-wise matching by using a multi-order matching process based on the multi-grain representation and importance weights. Furthermore, we dynamically update the importance weights according to the current matching results and then compute a new optimal group-wise matching. The two steps are iteratively conducted, yielding the final matching results. Experimental results on various datasets demonstrate the effectiveness of our approach.
