@@ -8,29 +8,35 @@ redirect_from:
 
 {% include base_path %}
 
-Please refer to [*my latest resume(pdf)*](http://alexxiao95.github.io/files/resume_Hao.pdf) [Aug. 2018] or my [*LinkedIn profile*](https://www.linkedin.com/in/hao-alex-xiao-1b1257124/).
+Please refer to [*my latest resume(pdf)*](http://alexxiao95.github.io/files/resume_Hao.pdf) [Sep. 2018] or my [*LinkedIn profile*](https://www.linkedin.com/in/hao-alex-xiao-1b1257124/).
 
 Education
 ======
 ### [University of Washington](https://www.washington.edu) (UW)
-* M.S. in Electrical Engineering, Sep.2017 - Mar. 2019(expected)
+* M.S. in Electrical & Computer Engineering, Sep.2017 - Dec. 2018(expected)
 * Member of Information Processing Lab where the main research areas are computer vision and image processing
 
 ### [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) (SJTU)
-* B.S. in Electrical Engineering, Sep. 2013 - Jun. 2017
-* Outstanding Graduate
+* B.S. in Electrical & Computer Engineering, Sep. 2013 - Jun. 2017
+* Member of IVM Lab, Outstanding Graduate of SJTU
 
 
 Skills
 ======
-* Interests: Computer Vision, Video/Image Processing, Machine Learning, Deep Learning
+* Interests: Computer Vision, Machine Learning, Deep Learning, Autonomous Driving
 * language: C/C++, Python, Java, Matlab
 * Tools: OpenCV, Linux, Git, Vim, Bash, TensorFlow, Azure, AWS
 
 Work Experiences
 ======
-### [TuSimple Future Tech Co., Ltd](http://www.tusimple.com/index-en.html)
-* Incoming machine learning intern working on developing state-of-the-art algorithms for **autonomous driving**
+### [TuSimple Inc.](http://www.tusimple.com/index-en.html)
+Machine Learning Intern in Perception Team
+
+* Built an online **multi-sensor tracking** algorithm, which includes Lidar and cameras, that runs in real-time for an autonomous truck
+
+* Utilized lane detection results and 3d map to do real-time camera pose estimation and tracking stabilization
+
+* Created a regression test pipeline for better analyzing tracking results of different versions of tracking algorithm
 
 ### [Clobotics Tech Co., Ltd](https://www.clobotics.com)
 Machine Learning & Computer Vision Intern
@@ -79,10 +85,13 @@ Patent
   
 Honors
 ======
-* Winner Team, Track 1 & Track 3 at the NVIDIA AI City Challenge Workshop at CVPR 2018, Apr. 2018
-* First Prize, China Undergraduate Mathematical Contest in Modeling, Jan. 2016
-* First Prize, Chinese Mathematical Olympiad, Dec. 2012
+* Student Travel Grant, ACM Multimedia 2018 conference, funded by US National Science Foundation(NSF), Aug. 2018
 
+* Winner Team, Track 1 & Track 3 at the NVIDIA AI City Challenge Workshop at CVPR 2018, Jun. 2018
+
+* Academic Excellence Scholarship & Xin Dong Scholarship & National Endeavor Fellowship in SJTU, 2013-2017
+
+* First Prize, Chinese Mathematical Olympiad & China Undergraduate Mathematical Contest in Modeling, 2012-2013
 Service
 ======
 * Conference and Journal Reviewer: CVPR 2018, ETRI 2018
