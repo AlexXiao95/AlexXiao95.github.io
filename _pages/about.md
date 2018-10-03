@@ -14,7 +14,7 @@ I am a quick learner, problem solver and team worker who has a strong passion in
 
 
 # What's new
-*09/2018*, I submitted my first journal paper, "Group Re-Identification with Multi-grained Matching and Integration", to TPAMI, 2018
+*10/2018*, I submitted my first journal paper, "Group Re-Identification with Multi-grained Matching and Integration", to TPAMI, 2018
 
 *09/2018*, I received Student Travel Grant for ACM Multimedia 2018 conference, which is funded by US National Science Foundation(NSF).
 
