@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please refer to [*my latest resume(pdf)*](http://alexxiao95.github.io/files/resume_Hao.pdf) [Sep. 2018] or my [*LinkedIn profile*](https://www.linkedin.com/in/hao-alex-xiao-1b1257124/).
+Please refer to [*my latest resume(pdf)*](http://alexxiao95.github.io/files/resume_Hao.pdf) [Oct. 2018] or my [*LinkedIn profile*](https://www.linkedin.com/in/hao-alex-xiao-1b1257124/).
 
 Education
 ======
@@ -92,6 +92,7 @@ Honors
 * Academic Excellence Scholarship & Xin Dong Scholarship & National Endeavor Fellowship in SJTU, 2013-2017
 
 * First Prize, Chinese Mathematical Olympiad & China Undergraduate Mathematical Contest in Modeling, 2012-2013
+
 Service
 ======
 * Conference and Journal Reviewer: CVPR 2018, ETRI 2018
