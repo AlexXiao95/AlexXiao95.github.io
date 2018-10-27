@@ -2,7 +2,7 @@
 title: "Group Re-Identification: Leveraging and Integrating Multi-Grain Information"
 collection: publications
 permalink: /publications/acmmm2018
-excerpt: '[[paper]](http://alexxiao95.github.io/publications/acmmm/acmmm_paper.pdf),
+excerpt: '[[Paper]](http://alexxiao95.github.io/publications/acmmm/acmmm_paper.pdf),
 [[Slides]](http://alexxiao95.github.io/publications/acmmm/acmmm_slides.pdf), [[Poster]](http://alexxiao95.github.io/publications/acmmm/acmmm_poster.pdf)'
 date: 2018-7-01
 venue: 'ACM Multimedia'
@@ -10,7 +10,7 @@ paperurl: ''
 citation: 'Hao Xiao, Weiyao Lin, Bin Sheng, Ke Lu, Junchi Yan, Jingdong Wang, Errui Ding, Yihao Zhang, and Hongkai Xiong. 2018. Group Re-Identification: Leveraging and Integrating Multi-Grain Information. In 2018 ACM Multimedia Conference'
 ---
 
-[[paper]](http://alexxiao95.github.io/publications/acmmm/acmmm_paper.pdf),
+[[Paper]](http://alexxiao95.github.io/publications/acmmm/acmmm_paper.pdf),
 [[Slides]](http://alexxiao95.github.io/publications/acmmm/acmmm_slides.pdf), [[Poster]](http://alexxiao95.github.io/publications/acmmm/acmmm_poster.pdf)
 
 ## Abstract
