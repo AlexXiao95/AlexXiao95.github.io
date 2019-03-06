@@ -8,12 +8,12 @@ redirect_from:
 
 {% include base_path %}
 
-Please refer to [*my latest resume(pdf)*](http://alexxiao95.github.io/files/resume_Hao.pdf) [Oct. 2018] or my [*LinkedIn profile*](https://www.linkedin.com/in/hao-alex-xiao-1b1257124/).
+Please refer to [*my latest resume(pdf)*](http://alexxiao95.github.io/files/resume_Hao.pdf) [Mar. 2019] or my [*LinkedIn profile*](https://www.linkedin.com/in/hao-alex-xiao-1b1257124/).
 
 Education
 ======
 ### [University of Washington](https://www.washington.edu) (UW)
-* M.S. in Electrical & Computer Engineering, Sep.2017 - Dec. 2018(expected)
+* M.S. in Electrical & Computer Engineering, Sep.2017 - Dec. 2018
 * Member of Information Processing Lab where the main research areas are computer vision and image processing
 
 ### [Shanghai Jiao Tong University](http://www.sjtu.edu.cn) (SJTU)
@@ -38,12 +38,6 @@ Machine Learning Intern in Perception Team
 
 * Created a regression test pipeline for better analyzing tracking results of different versions of tracking algorithm
 
-### [Clobotics Tech Co., Ltd](https://www.clobotics.com)
-Machine Learning & Computer Vision Intern
-
-* Refactored the model training setup by utilizing multiprocessing pool to reduce time at assembling data and cropping images
-* Improved classification accuracy by using super-resolution technique to do **fine-grained classification** (more than 2000 types)
-* Trained an end-to-end fine-grained classification model by combining image super-resolution and classification into a single model
   
 Experiences
 ======

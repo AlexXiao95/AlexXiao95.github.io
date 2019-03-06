@@ -8,4 +8,5 @@ date: 2018-08-01
 location: "City, Country"
 ---
 
-[[paper]](http://alexxiao95.github.io/publications/acmmm/paper_acmmm.pdf), Camera-ready version to appear.
+[[Paper]](http://alexxiao95.github.io/publications/acmmm/acmmm_paper.pdf),
+[[Slides]](http://alexxiao95.github.io/publications/acmmm/acmmm_slides.pdf), [[Poster]](http://alexxiao95.github.io/publications/acmmm/acmmm_poster.pdf)
