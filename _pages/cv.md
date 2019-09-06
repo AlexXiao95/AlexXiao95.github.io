@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please refer to [*my latest resume(pdf)*](http://alexxiao95.github.io/files/resume_Hao.pdf) [Mar. 2019] or my [*LinkedIn profile*](https://www.linkedin.com/in/hao-alex-xiao-1b1257124/).
+Please refer to [*my latest resume(pdf)*](http://alexxiao95.github.io/files/resume_Hao.pdf) [Sep. 2019] or my [*LinkedIn profile*](https://www.linkedin.com/in/hao-alex-xiao-1b1257124/).
 
 Education
 ======
@@ -29,6 +29,11 @@ Skills
 
 Work Experiences
 ======
+### [TuSimple Inc.](http://www.tusimple.com/index-en.html)
+Research Engineer in Perception Team
+
+* Working on **trajectory prediction** for other vehicles based on scenario understanding
+
 ### [TuSimple Inc.](http://www.tusimple.com/index-en.html)
 Machine Learning Intern in Perception Team
 
@@ -58,14 +63,15 @@ Undergraduate Research Assistant, supervised by [*Prof. Weiyao Lin*](https://wei
 
 Project Leader of an Intelligent System
 
-* Achieved a real-time object detection system by training convolutional neural network and iteratively advancing model performance, which can classify normal people and fallen people.* Utilized graph matching algorithm based on confident tracklets to develop multiple object tracking algorithm.* Implemented a **real-time tracking system** on surveillance video stream by combining detection and tracking algorithm, which realized pedestrian counting as well as fall warning.
+* Achieved a real-time object detection system by training detection model based on YOLO, which can classify abnormal events.* Utilized graph matching algorithm based on confident tracklets to develop multiple object tracking algorithm.* Implemented a **real-time UAV-based intelligent tracking system** on video stream by combining detection and tracking algorithm
+
 
 ### **[Research Center of Intelligent Internet of Things](http://iiot.sjtu.edu.cn/) (IIOT), SJTU**
 
 Project Team Leader, supervised by [*Prof. Xinbing Wang*](http://www.cs.sjtu.edu.cn/~wang-xb/).
 
 * Conducted the construction and maintenance of an academic search system: [*Acemap*](https://acemap.info).* Analyzed a large scale academic dataset, [*Microsoft Academic Graph*](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/) (MAG), which included data crawling, cleaning and processing.
-* Applied for a patent: Construction and Visualization of Heterogeneous Topic Web Based on Text Network, which can recognize the relationship between word topics and document topics.* Designed a novel “interactive map” approach to visualize large-scale and high-dimensional academic literatures and display the underlying relationship among them, which is available on the Acemap website.
+* Adapted topic model to recognize the relationship between word topics and document topics.* Designed a novel “interactive map” approach to visualize large-scale academic literatures and display the deep relationship among them.
 
 Publications
 ======
