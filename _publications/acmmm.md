@@ -3,15 +3,15 @@ title: "Group Re-Identification: Leveraging and Integrating Multi-Grain Informat
 collection: publications
 permalink: /publications/acmmm2018
 excerpt: '[[Paper]](http://alexxiao95.github.io/publications/acmmm/acmmm_paper.pdf),
-[[Slides]](http://alexxiao95.github.io/publications/acmmm/acmmm_slides.pdf), [[Poster]](http://alexxiao95.github.io/publications/acmmm/acmmm_poster.pdf)'
+[[Slides]](http://alexxiao95.github.io/publications/acmmm/acmmm_slides.pdf), [[Poster]](http://alexxiao95.github.io/publications/acmmm/acmmm_poster.pdf), [[Dataset]](http://min.sjtu.edu.cn/lwydemo/GroupReID.html)'
 date: 2018-7-01
 venue: 'ACM Multimedia'
-paperurl: ''
-citation: 'Hao Xiao, Weiyao Lin, Bin Sheng, Ke Lu, Junchi Yan, Jingdong Wang, Errui Ding, Yihao Zhang, and Hongkai Xiong. 2018. Group Re-Identification: Leveraging and Integrating Multi-Grain Information. In 2018 ACM Multimedia Conference'
 ---
 
 [[Paper]](http://alexxiao95.github.io/publications/acmmm/acmmm_paper.pdf),
-[[Slides]](http://alexxiao95.github.io/publications/acmmm/acmmm_slides.pdf), [[Poster]](http://alexxiao95.github.io/publications/acmmm/acmmm_poster.pdf)
+[[Slides]](http://alexxiao95.github.io/publications/acmmm/acmmm_slides.pdf),
+[[Poster]](http://alexxiao95.github.io/publications/acmmm/acmmm_poster.pdf),
+[[Dataset]](http://min.sjtu.edu.cn/lwydemo/GroupReID.html)
 
 ## Abstract
 This paper addresses an important yet less-studied problem: re-identifying groups of people in different camera views. Group re-identification (Re-ID) is very challenging since it is not only interfered by view-point and human pose variations in the traditional single-object Re-ID tasks, but also suffers from group layout and group member variations. To handle these issues, we propose to leverage the information of multi-grain objects: individual person and subgroups of two and three people inside a group image. We compute multi-grain representations to characterize the appearance and spatial features of multi-grain objects and evaluate the importance weight of each object for group Re-ID, so as to handle the interferences from group dynamics. We compute the optimal group-wise matching by using a multi-order matching process based on the multi-grain representation and importance weights. Furthermore, we dynamically update the importance weights according to the current matching results and then compute a new optimal group-wise matching. The two steps are iteratively conducted, yielding the final matching results. Experimental results on various datasets demonstrate the effectiveness of our approach.
@@ -51,3 +51,27 @@ Figure 3: CMC results of Group Re-ID on different datasets. We compares our appr
 <div style="text-align: center"> 
 <img src="https://alexxiao95.github.io/publications/acmmm/table.png" width = "800"> 
 </div>
+
+
+## Reference
+Please cite this paper in your publications if it helps your research:
+
+```
+@inproceedings{xiao2018group,
+  title={Group Re-Identification: Leveraging and Integrating Multi-Grain Information},
+  author={Xiao, Hao and Lin, Weiyao and Sheng, Bin and Lu, Ke and Yan, Junchi and Wang, Jingdong and Ding, Errui and Zhang, Yihao and Xiong, Hongkai},
+  booktitle={2018 ACM Multimedia Conference on Multimedia Conference},
+  pages={192--200},
+  year={2018},
+  organization={ACM}
+}
+
+@article{lin2019group,
+    title={Group Re-Identification with Multi-grained Matching and Integration},
+    author={Lin, Weiyao and Li, Yuxi and Xiao, Hao and John, See and Zou, Junni and Xiong, Hongkai and Wang, Jingdong and Mei Tao},
+    journal={IEEE Transaction on Cybernetics},
+    year={2019},
+    doi={10.1109/TCYB.2019.2917713},
+    organization={IEEE}
+    }
+```
