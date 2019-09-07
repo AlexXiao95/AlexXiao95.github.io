@@ -13,7 +13,7 @@ main:
     url: /publications/
 
   - title: "Portfolio"
-    url: /portfolio/portfolio.html
+    url: /portfolio/portfolio-raw.html
 
   # - title: "Blog Posts"
     # url: /year-archive/
