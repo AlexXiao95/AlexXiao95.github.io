@@ -2,8 +2,6 @@
 title: "Group Re-Identification: Leveraging and Integrating Multi-Grain Information"
 collection: publications
 permalink: /publications/acmmm2018
-excerpt: '[[Paper]](http://alexxiao95.github.io/publications/acmmm/acmmm_paper.pdf),
-[[Slides]](http://alexxiao95.github.io/publications/acmmm/acmmm_slides.pdf), [[Poster]](http://alexxiao95.github.io/publications/acmmm/acmmm_poster.pdf), [[Dataset]](http://min.sjtu.edu.cn/lwydemo/GroupReID.html)'
 date: 2018-7-01
 venue: 'ACM Multimedia'
 ---
@@ -52,6 +50,59 @@ Figure 3: CMC results of Group Re-ID on different datasets. We compares our appr
 <img src="https://alexxiao95.github.io/publications/acmmm/table.png" width = "800"> 
 </div>
 
+
+## Dataset
+### Road Group
+Our newly constructed Road Group dataset [1] consists of 162 group pairs taken from a 2-camera-view of a crowded road scene. The bounding box coordinates of totally 1099 pedestrians are also provided. This dataset is challenging due to its large variation of group layout and human pose.
+
+<div style="text-align: center">
+<img src="https://alexxiao95.github.io/publications/acmmm/dataset.png" width = "600">
+</div>
+
+
+### Annotations
+For each of our constructed dataset, we provide 3 different kinds of annotations, the group id annotations, the single pedestrian correspondance annotations and single pedestrian bounding box annotations.
+
+The group id annotations is a json file with the following format. The field "id" is the group id number, "image name" denotes the names of images containing this group. 
+ 
+
+```
+group_id{
+		"id"           : int, 
+		"image names"  : [str, str]
+}
+```
+
+
+The single pedestrian bounding box annotations is a json file with the following format. The field "image name" denotes the name of group image. The "pedestrian" field is a list of person annotation type, which includes two sub-fields. The "person id" field is the index of the person within this group and the "bbox" field is the bounding box corrdinate of the person.
+
+```
+person_bounding_box{
+		"image name"   : str, 
+		"pedestrian"   : [person, person, ....],
+}
+
+person{
+		"person id"    : int, 
+		"bbox"         : [xmin, ymin, xmax, ymax]
+}
+```
+
+The single pedestrian correspondance annotations indicate the individual correspondance between two matched groups. It is a json file with the following format. The field "group pair" is the list containing names of two images, and the "person pairs" field denotes the correspondance relationship between people in the two images, which is a list of person_pair annotation type. The person_pair annotation type includes two fields, "person1 id" and "person2 id", which denote the person ids in the first and second group in the group pair.
+
+```
+person_correspondance{
+		"group pair"   : [str, str], 
+		"person pairs" : [person_pair, person_pair, ...]
+}
+
+person_pair{
+		"person1 id"   : int, 
+		"person2 id"   : int,
+}
+```
+
+The image collections and annotations used in this paper can be downloaded [here](http://min.sjtu.edu.cn/lwydemo/GroupReID.html).
 
 ## Reference
 Please cite this paper in your publications if it helps your research:

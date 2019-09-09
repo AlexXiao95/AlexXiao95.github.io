@@ -1,12 +1,7 @@
 ---
-title: "Single-camera and inter-camera vehicle tracking and 3D speed estimation based on fusion of visual and semantic features"
+title: "Single-camera and Inter-camera Vehicle Tracking and 3D Speed Estimation based on Fusion of Visual and Semantic Features"
 collection: publications
 permalink: /publications/cvpr2018
-excerpt: '[[Paper]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Tang_Single-Camera_and_Inter-Camera_CVPR_2018_paper.pdf), 
-[[Slides]](https://alexxiao95.github.io/publications/cvprw/cvpr_slides.pdf),
-[[Poster]](https://alexxiao95.github.io/publications/cvprw/cvpr_poster.pdf),
-[[Code]](https://github.com/AlexXiao95/2018AICity_TeamUW), 
-[[2018 NVIDIA AI City Challenge]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf)'
 date: 2018-5-01
 venue: 'CVPR Workshop on the NVIDIA AI City Challenge'
 ---
@@ -15,7 +10,7 @@ venue: 'CVPR Workshop on the NVIDIA AI City Challenge'
 [[Slides]](https://alexxiao95.github.io/publications/cvprw/cvpr_slides.pdf),
 [[Poster]](https://alexxiao95.github.io/publications/cvprw/cvpr_poster.pdf),
 [[Code]](https://github.com/AlexXiao95/2018AICity_TeamUW), 
-[[2018 NVIDIA AI City Challenge]](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf)
+[[2018 NVIDIA AI City Challenge]](https://www.aicitychallenge.org/2018-ai-city-challenge/)
 
 
 ## Abstract

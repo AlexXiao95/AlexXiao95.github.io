@@ -1,5 +1,5 @@
 ---
-title: "Acemap:  an academic recommendation system"
+title: "Acemap:  an Academic Recommendation System"
 collection: research
 type: "Research Center of Intelligent Internet of Things"
 permalink: /research/research-acemap

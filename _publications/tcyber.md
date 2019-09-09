@@ -2,7 +2,6 @@
 title: "Group Re-Identification with Multi-grained Matching and Integration"
 collection: publications
 permalink: /publications/tcyber2019
-excerpt: '[[Paper]](https://arxiv.org/pdf/1905.07108.pdf), [[Dataset]](http://min.sjtu.edu.cn/lwydemo/GroupReID.html)'
 date: 2019-5-01
 venue: 'IEEE Transactions on Cybernetics'
 ---
@@ -63,6 +62,7 @@ person_pair{
 }
 ```
 
+The image collections and annotations used in this paper can be downloaded [here](http://min.sjtu.edu.cn/lwydemo/GroupReID.html).
 
 ## Reference
 Please cite this paper in your publications if it helps your research:

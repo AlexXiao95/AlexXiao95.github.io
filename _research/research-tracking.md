@@ -8,8 +8,9 @@ date: 2018-03-22
 location: "City, Country"
 ---
 
-[[Code]](https://github.com/AlexXiao95/YOLO_TRACKING),
-[[Poster]](https://alexxiao95.github.io/research/tracking/tracking_poster.pdf)
+[[Poster]](https://alexxiao95.github.io/research/tracking/tracking_poster.pdf), 
+[[Code]](https://github.com/AlexXiao95/YOLO_TRACKING)
+
 
 ## Introduction
 
