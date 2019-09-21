@@ -66,7 +66,7 @@ For each of our constructed dataset, we provide 3 different kinds of annotations
 The group id annotations is a json file with the following format. The field "id" is the group id number, "image name" denotes the names of images containing this group. 
  
 
-```
+```python
 group_id{
 		"id"           : int, 
 		"image names"  : [str, str]
@@ -76,7 +76,7 @@ group_id{
 
 The single pedestrian bounding box annotations is a json file with the following format. The field "image name" denotes the name of group image. The "pedestrian" field is a list of person annotation type, which includes two sub-fields. The "person id" field is the index of the person within this group and the "bbox" field is the bounding box corrdinate of the person.
 
-```
+```python
 person_bounding_box{
 		"image name"   : str, 
 		"pedestrian"   : [person, person, ....],
@@ -90,7 +90,7 @@ person{
 
 The single pedestrian correspondance annotations indicate the individual correspondance between two matched groups. It is a json file with the following format. The field "group pair" is the list containing names of two images, and the "person pairs" field denotes the correspondance relationship between people in the two images, which is a list of person_pair annotation type. The person_pair annotation type includes two fields, "person1 id" and "person2 id", which denote the person ids in the first and second group in the group pair.
 
-```
+```python
 person_correspondance{
 		"group pair"   : [str, str], 
 		"person pairs" : [person_pair, person_pair, ...]
@@ -105,7 +105,7 @@ person_pair{
 The image collections and annotations used in this paper can be downloaded [here](http://min.sjtu.edu.cn/lwydemo/GroupReID.html).
 
 ## Reference
-Please cite this paper in your publications if it helps your research:
+Please cite these two papera in your publications if it helps your research:
 
 ```
 @inproceedings{xiao2018group,
