@@ -8,7 +8,13 @@ redirect_from:
 
 {% include base_path %}
 
-Please refer to [*my latest resume(pdf)*](http://alexxiao95.github.io/files/resume_Hao.pdf) [Sep. 2019] or my [*LinkedIn profile*](https://www.linkedin.com/in/hao-alex-xiao-1b1257124/).
+Please refer to [**my latest resume(pdf)**](http://alexxiao95.github.io/files/resume_Hao.pdf) [Sep. 2019] or my [**LinkedIn profile**](https://www.linkedin.com/in/hao-alex-xiao-1b1257124/).
+
+<!--
+<object data="../files/resume_Hao.pdf" type="application/pdf" width="700px" height="700px">
+  <p>This browser does not support embedded PDFs. Please download the PDF to view it: <a href="../files/resume_Hao.pdf">Curriculum Vitae</a>.</p>
+</object>-->
+
 
 Education
 ======
@@ -75,13 +81,15 @@ Project Team Leader, supervised by [*Prof. Xinbing Wang*](http://www.cs.sjtu.edu
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+* W. Lin, Y. Li, **H. Xiao**, J. See, J. Zou, H. Xiong, J. Wang and T. Mei, [Group Re-Identification with Multi-grained Matching and Integration](https://alexxiao95.github.io/publications/tcyber2019), in IEEE Transactions on Cybernetics, 2019
+* **H. Xiao**, W. Lin, B. Sheng, K. Lu, J. Yan, J. Wang, E. Ding, Y. Zhang, H. Xiong, [Group Re-Identification: Leveraging and Integrating Multi-Grain Information](https://alexxiao95.github.io/publications/acmmm2018), in ACM Multimedia, 2018
+* Z. Tang, G. Wang, **H. Xiao**, A. Zheng and J.-N. Hwang, [Single-camera and inter-camera vehicle tracking and 3D speed estimation based on fusion of visual and semantic features](https://alexxiao95.github.io/publications/cvpr2018), in IEEE CVPR Workshop on the NVIDIA AI City Challenge, 2018
+
   
 Patent
 ======
-* Construction and Visualization of Heterogeneous Topic Web Based on Text Network, Patent #: ZL201610757401.0 (Chinese) [[Link](http://www.soopat.com/Patent/201610757401)]
+* [Construction and Visualization of Heterogeneous Topic Web Based on Text Network](http://www.soopat.com/Patent/201610757401), Patent #: ZL201610757401.0 (Chinese)
   
 Honors
 ======
