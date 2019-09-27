@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a machine learning engineer at [TuSimple](http://www.tusimple.com/index-en.html), and our goal is to bring the first self-driving truck to market. Before that, I was a master student of [Department of Electrical & Computer Engineering](http://www.ee.washington.edu/) at [University of Washington](http://www.washington.edu). My principal interests lie in the area of computer vision and machine learning. 
+I am a machine learning engineer at [TuSimple](http://www.tusimple.com/index-en.html), and our goal is to bring the first self-driving truck to market. Before that, I was a master student of [Department of Electrical & Computer Engineering](http://www.ee.washington.edu/) at [University of Washington](http://www.washington.edu).
 
 I am a quick learner, problem solver and team worker who has a strong passion in machine learning and computer vision, as well as system development.
 
