@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please refer to [**my latest resume(pdf)**](http://alexxiao95.github.io/files/resume_Hao.pdf) [Sep. 2019] or my [**LinkedIn profile**](https://www.linkedin.com/in/hao-alex-xiao-1b1257124/).
+Please refer to [**my latest resume(pdf)**](http://alexxiao95.github.io/files/resume_Hao.pdf) [Nov. 2023].
 
 <!--
 <object data="../files/resume_Hao.pdf" type="application/pdf" width="700px" height="700px">
@@ -16,7 +16,7 @@ Please refer to [**my latest resume(pdf)**](http://alexxiao95.github.io/files/re
 </object>-->
 
 
-Education
+<!--Education
 ======
 ### [University of Washington](https://www.washington.edu) (UW)
 * M.S. in Electrical & Computer Engineering, Sep.2017 - Dec. 2018
@@ -104,3 +104,4 @@ Honors
 Service
 ======
 * Conference and Journal Reviewer: CVPR 2018, ETRI 2018
+-->
