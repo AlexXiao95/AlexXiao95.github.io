@@ -1,5 +1,5 @@
 ---
-title: "Group Re-Identification: Leveraging and Integrating Multi-Grain Information"
+title: "Multi-Granular Transformer for Motion Prediction with LiDAR"
 collection: publications
 permalink: /publications/icra2024
 date: 2024-5-01

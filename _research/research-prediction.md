@@ -1,5 +1,5 @@
 ---
-title: "Group Re-Identification: Leveraging and Integrating Multi-Grain Information"
+title: "Multi-Granular Transformer for Motion Prediction with LiDAR"
 collection: research
 type: "IVM Lab"
 permalink: /publications/icra2024
