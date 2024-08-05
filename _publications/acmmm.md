@@ -105,7 +105,7 @@ person_pair{
 The image collections and annotations used in this paper can be downloaded [here](http://min.sjtu.edu.cn/lwydemo/GroupReID.html).
 
 ## Reference
-Please cite these two papera in your publications if it helps your research:
+Please cite these two papers in your publications if it helps your research:
 
 ```
 @inproceedings{xiao2018group,

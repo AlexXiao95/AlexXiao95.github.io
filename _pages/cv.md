@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please refer to [**my latest resume(pdf)**](http://alexxiao95.github.io/files/resume_Hao.pdf) [Nov. 2023].
+Please refer to [**my latest resume(pdf)**](http://alexxiao95.github.io/files/resume_Hao.pdf) [Aug. 2024].
 
 <!--
 <object data="../files/resume_Hao.pdf" type="application/pdf" width="700px" height="700px">
@@ -65,19 +65,26 @@ Graduate Research Assistant, supervised by [*Prof. Jenq-Neng Hwang*](http://www.
 
 Undergraduate Research Assistant, supervised by [*Prof. Weiyao Lin*](https://weiyaolin.github.io).
 
-* Collected two challenging group re-identification datasets by tracking people in a crowd scene and implementing socially constraint structure learning to detect groups.* Developed a multi-grain **group re-identification** process which derives features for multi-grain objects and iteratively evaluates their importance to handle interferences from group dynamics.* Proposed a multi-order matching process by a personalized random walk scheme through a multi-order association graph, which integrated multi-grain information to obtain more reliable group matching results.
+* Collected two challenging group re-identification datasets by tracking people in a crowd scene and implementing socially constraint structure learning to detect groups.
+* Developed a multi-grain **group re-identification** process which derives features for multi-grain objects and iteratively evaluates their importance to handle interferences from group dynamics.
+* Proposed a multi-order matching process by a personalized random walk scheme through a multi-order association graph, which integrated multi-grain information to obtain more reliable group matching results.
 
 Project Leader of an Intelligent System
 
-* Achieved a real-time object detection system by training detection model based on YOLO, which can classify abnormal events.* Utilized graph matching algorithm based on confident tracklets to develop multiple object tracking algorithm.* Implemented a **real-time UAV-based intelligent tracking system** on video stream by combining detection and tracking algorithm
+* Achieved a real-time object detection system by training detection model based on YOLO, which can classify abnormal events.
+* Utilized graph matching algorithm based on confident tracklets to develop multiple object tracking algorithm.
+* Implemented a **real-time UAV-based intelligent tracking system** on video stream by combining detection and tracking algorithm
 
 
 ### **[Research Center of Intelligent Internet of Things](http://iiot.sjtu.edu.cn/) (IIOT), SJTU**
 
 Project Team Leader, supervised by [*Prof. Xinbing Wang*](http://www.cs.sjtu.edu.cn/~wang-xb/).
 
-* Conducted the construction and maintenance of an academic search system: [*Acemap*](https://acemap.info).* Analyzed a large scale academic dataset, [*Microsoft Academic Graph*](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/) (MAG), which included data crawling, cleaning and processing.
-* Adapted topic model to recognize the relationship between word topics and document topics.* Designed a novel “interactive map” approach to visualize large-scale academic literatures and display the deep relationship among them.
+* Conducted the construction and maintenance of an academic search system: [*Acemap*](https://acemap.info).
+* Analyzed a large scale academic dataset, [*Microsoft Academic Graph*](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/) (MAG), which included data crawling, cleaning and processing.
+* Adapted topic model to recognize the relationship between word topics and document topics.
+* Designed a novel “interactive map” approach to visualize large-scale academic literatures and display the deep relationship among them.
+
 
 Publications
 ======
