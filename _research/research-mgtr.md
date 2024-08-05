@@ -1,9 +1,9 @@
 ---
 title: "Multi-Granular Transformer for Motion Prediction with LiDAR"
 collection: research
-type: "IVM Lab"
+type: "Motion Prediction Team"
 permalink: /publications/icra2024
-venue: "Shanghai Jiao Tong University"
+venue: "TuSimple"
 date: 2024-08-01
 location: "City, Country"
 ---
